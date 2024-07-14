@@ -1,5 +1,5 @@
 # Qual API vou utilizar?
-- OpenWeatherMap
+- OpenWeatherMap ✅
 
 
 # Bibliotecas que irei utilizar
@@ -7,9 +7,9 @@
 
 # Desenvolvimento backend
 
-- Criar uma rota que faça a chamada à API de previsão do tempo e processe os dados recebidos.
+- Criar uma rota que faça a chamada à API de previsão do tempo e processe os dados recebidos. ✅
 - Extraia as informações necessárias da resposta da API (como temperatura, umidade, descrição do tempo).
-- Estruture os dados em um formato adequado para envio ao frontend.
+- Estruture os dados em um formato adequado para envio ao frontend. ✅
 
 # Desenvolvimento frontend
 
